@@ -1,6 +1,6 @@
-#Fizika za življenje
+# Fizika za življenje
 
-"Praktična fizika za življenje, posel in preživetje ..."
+    Praktična fizika za življenje, posel in preživetje
 
 ## Kaj in kako
 
